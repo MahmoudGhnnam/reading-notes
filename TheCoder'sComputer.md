@@ -1,4 +1,4 @@
-#Text editor 
+# Text editor 
 
 it's a piece of software that allowd you to make coding its help you so much and It saves your time 
 
@@ -17,13 +17,13 @@ Many text editors such as Vim or Emacs have IDE features by default but then can
 
 line numbers and syntax checking that is commonly found in full-featured IDEs.
 
-#Commnd line
+# Commnd line
 
 A command line, or terminal, is a text based interface to the system. its space allowd you to write commnd and will be given to you similarly as text.
 These are some commands you can use it:
-- (mkdir) this command to make new folder .
-- (ls) and this to list content of the file .
-- (cd) to changing directly .
-- (touch) to make new file . 
+- **(mkdir) this command to make new folder .
+- **(ls) and this to list content of the file .
+- **(cd) to changing directly .
+- **(touch) to make new file . 
 
 and there's more commands you found it in google and you can learn it :)
