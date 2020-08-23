@@ -16,6 +16,6 @@ and if i faced with criticism i will I will learn from it
 
 and if i saw someone succeed more than me i will be inspired not to take it as a threat.
 
-So this is the ***Mindset***
+So this is the ***Mindset*** in easy way :)
 
 [to the readme file](https://mahmoudghnnam.github.io/reading-notes/)
