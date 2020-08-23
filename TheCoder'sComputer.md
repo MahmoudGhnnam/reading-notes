@@ -27,3 +27,5 @@ These are some commands you can use it:
 - **(touch) to make new file . 
 
 and there's more commands you found it in google and you can learn it :)
+
+[to the Main page](https://mahmoudghnnam.github.io/reading-notes/)
