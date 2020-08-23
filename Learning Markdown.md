@@ -18,4 +18,4 @@ and if i saw someone succeed more than me i will be inspired not to take it as a
 
 So this is the ***grouth Mindset*** in easy way :)
 
-[to the readme file](https://mahmoudghnnam.github.io/reading-notes/)
+[to the Main page](https://mahmoudghnnam.github.io/reading-notes/)
