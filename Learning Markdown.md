@@ -1,4 +1,5 @@
 # *Mind set*
+![Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
 ## What is the mind set ?
 
@@ -16,3 +17,5 @@ and if i faced with criticism i will I will learn from it
 and if i saw someone succeed more than me i will be inspired not to take it as a threat.
 
 So this is the ***Mindset***
+
+[to the readme file](https://mahmoudghnnam.github.io/reading-notes/)
