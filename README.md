@@ -12,12 +12,6 @@
 ## Github:
 is a website to help all the software develober to create their site and you dont need to know for ex. HTML language 
 
-[to Learning Markdown page](https://mahmoudghnnam.github.io/reading-notes/Learning%20Markdown) 
-[to TheCoder'sComputer page](https://mahmoudghnnam.github.io/reading-notes/TheCoder'sComputer)
 
 | [to Learning Markdown page](https://mahmoudghnnam.github.io/reading-notes/Learning%20Markdown)  |  [to TheCoder'sComputer page](https://mahmoudghnnam.github.io/reading-notes/TheCoder'sComputer) |  [to Rvisions and the Cloud page](https://mahmoudghnnam.github.io/reading-notes/Revisions%20andthe%20Cloud)  | [to Structure web pages](https://mahmoudghnnam.github.io/reading-notes/Structure%20web%20pages%20with%20HTML)
-]  |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
