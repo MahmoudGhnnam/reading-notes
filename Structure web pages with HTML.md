@@ -21,4 +21,4 @@ CSS saves a lot of work. It can control the layout of multiple web pages all at 
 * Will your site appeal to more women or men? What is the mix?
 * Which country do your visitors live in? 
 
-## so you should keepin on your mind :)
+## so you should keep it on your mind :)
