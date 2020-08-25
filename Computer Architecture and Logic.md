@@ -9,10 +9,9 @@
 ----------------------------------------------------------
 
 # Computer work with ones and zeros
-### but today there's almost no body work or deals directly with ones and zeros but ones and zeros it's important in how computer play inside 
+### but today there's almost no body work or deals   directly with ones and zeros but ones and zeros it's important in how computer play inside 
 
-###in computer if you use more wires you will get more bit and bit is the smallest piece of information. 
-with more bit you can represent more complex information
+#### in computer if you use more wires you will get more bit and bit is the smallest piece of information.   with more bit you can represent more complex information
 ----------------------------------------------------------
 # How CPU,MEMORY,INPUT AND OUT PUT work together
 
