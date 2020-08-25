@@ -25,5 +25,5 @@ here text is harder to read
 2- High contrast 
 here text is easier to read 
 
-3- Medium contrast.
+3- Medium contrast
 
