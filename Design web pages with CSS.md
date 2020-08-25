@@ -12,6 +12,8 @@ for each one color there's a code from six-digit you can found it in any website
 ### 3. COLOR NAMES 
 you only need to but color name here 
 
+---------------------------------------
+
 Also you can change background color and opacity  
 
 When picking colors to background text you should know there is enough contrast to 
