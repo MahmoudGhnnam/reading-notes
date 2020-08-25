@@ -16,9 +16,8 @@ you only need to but color name here
 
 #### Also you can change background color and opacity  
 
-#### When picking colors to background text you should know there is enough contrast to 
+#### When picking colors to background text you should know there is enough contrast to show your text And make it good for reading
 
-#### show your text And make it good for reading
 there's three type for contrast :
 
 1. low contrast 
